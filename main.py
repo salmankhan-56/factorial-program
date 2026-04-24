@@ -1,2 +1,2 @@
-print("Welcome to factorial-program")
-print("This is the main program file.")
+print("Project: factorial-program")
+print("Main program executed successfully.")
